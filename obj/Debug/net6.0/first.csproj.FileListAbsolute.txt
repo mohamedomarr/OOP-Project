@@ -1,0 +1,15 @@
+/Users/mohamed/Documents/oopP/first/bin/Debug/net6.0/first
+/Users/mohamed/Documents/oopP/first/bin/Debug/net6.0/first.deps.json
+/Users/mohamed/Documents/oopP/first/bin/Debug/net6.0/first.runtimeconfig.json
+/Users/mohamed/Documents/oopP/first/bin/Debug/net6.0/first.dll
+/Users/mohamed/Documents/oopP/first/bin/Debug/net6.0/first.pdb
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.csproj.AssemblyReference.cache
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.AssemblyInfoInputs.cache
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.AssemblyInfo.cs
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.csproj.CoreCompileInputs.cache
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.dll
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/refint/first.dll
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.pdb
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/first.genruntimeconfig.cache
+/Users/mohamed/Documents/oopP/first/obj/Debug/net6.0/ref/first.dll
